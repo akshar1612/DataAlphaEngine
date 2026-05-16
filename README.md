@@ -6,6 +6,11 @@ A full-stack quantitative research platform that ingests unstructured alternativ
 
 ---
 
+<img width="1470" height="767" alt="Screenshot 2026-05-16 at 2 41 59 PM" src="https://github.com/user-attachments/assets/552af8b4-451b-4e17-a416-9307b565487b" />
+
+<img width="1467" height="762" alt="Screenshot 2026-05-16 at 2 34 18 PM" src="https://github.com/user-attachments/assets/a5140a85-da3f-4863-8c88-aef962d44ca0" />
+
+
 ## Overview
 
 Traditional quant strategies rely on price, volume, and fundamental data — all widely available and heavily arbitraged. Modern alpha comes from **alternative data**: satellite imagery, job postings, web traffic, shipping manifests. This engine demonstrates the full pipeline from raw alt data ingestion through signal extraction and systematic backtesting.
